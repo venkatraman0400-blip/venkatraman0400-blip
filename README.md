@@ -44,7 +44,6 @@ class Venkatraman:
 
 ---
 
-## Tech Stack
 
 **Languages**
 
